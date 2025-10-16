@@ -1,0 +1,2 @@
+# Kelime-Sayac-
+Kelime Sayacı
